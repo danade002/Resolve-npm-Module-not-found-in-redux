@@ -1,0 +1,6 @@
+error - ./src/redux/store.js:1:0
+Module not found: Can't resolve '@reduxjs/toolkit'
+> 1 | import { configureStore } from "@reduxjs/toolkit";
+  2 | 
+  3 | import languageReducer from "./slices/languageSlice.js";
+  4 | import productReducer from "./slices/productSlice.js";
