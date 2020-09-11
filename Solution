@@ -1,0 +1,10 @@
+Do not use save-dev for Redux. Remove it from devDependencies by running:
+npm uninstall redux --save-dev
+
+run the installation again by:
+
+npm i redux --save
+
+redux is back and running
+
+Enjoy your nextjs app!
